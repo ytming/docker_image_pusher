@@ -6,4 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 python:alpine
-java
+openjdk
