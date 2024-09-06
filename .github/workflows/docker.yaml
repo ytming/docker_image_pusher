@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '00 23 * * *'  # 每天零点触发(此处cron使用UTC时区)
+    - cron: '00 16 * * *'  # 每天北京时间零点触发(此处cron使用UTC时区)
 
 
 env:
