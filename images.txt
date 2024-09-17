@@ -11,3 +11,5 @@ python:alpine
 openjdk
 docker
 tomcat
+ollama/ollama
+lobehub/lobe-chat
