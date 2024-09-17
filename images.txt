@@ -7,3 +7,4 @@ nginx
 #python:alpine3.19
 python:alpine
 openjdk
+docker
